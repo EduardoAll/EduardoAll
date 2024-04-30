@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Eduardo Allegrini
 #### Semi senior Frontend developer
 
-                   -On a journey of continuous learning-
+                   On a journey of continuous learning
 
 Skills: TS / JS / REACT / HTML / CSS / GIT and many more
 
