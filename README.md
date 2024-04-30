@@ -13,6 +13,5 @@ Skills: TS / JS / REACT / HTML / CSS / GIT and many more
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=EduardoAll)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoAll)](https://github.com/anuraghazra/github-readme-stats&count-private=true)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=EduardoAll)  
