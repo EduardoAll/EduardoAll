@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Eduardo Allegrini
+
 #### Semi senior Frontend developer
 
 On a journey of continuous learning
